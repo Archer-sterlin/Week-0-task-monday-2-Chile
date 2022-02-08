@@ -14,7 +14,7 @@ def quadraticSolver(a:int,b:int,c:int):
 
 
 
-x = quadraticSolver(0,1,-9) 
+x = quadraticSolver(0,1,9) 
 
 
     
